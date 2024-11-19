@@ -1,5 +1,14 @@
 # Interpreting Embedding Spaces by Conceptualization
 
+The primary task here is to enhance the interpretability of embeddings produced
+by large language models (LLMs), such as BERT and GPT-2, using a novel Conceptual Embedding
+Space (CES) framework. The research question
+we seek to answer is: Can we transform complex,
+high dimensional latent embeddings into an interpretable conceptual space without compromising
+their representational power? Focus is on developing a method that maps latent embeddings
+to a set of human understandable concepts, facilitating a better understanding of model behavior and improving transparency in language model
+decision making.
+
 We have run, verified and thoroughly annotated the files: full_llm.py, feature_generation.py, model_embedding.py, classification_test.py, core_on_demand.py such that we clearly associate methodology used in the paper by the authors to the actual code.
 
 ### Steps to run this code:
